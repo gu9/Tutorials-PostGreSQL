@@ -39,4 +39,5 @@ Here are the steps we performed (and reviewed at the end):
 
 ## Schema for Database
 
-![image-20181001152904028](/Users/s4555024/Documents/Tutorials-PostGreSQL/Pics/image-20181001152904028.png)
+![image-20181001152904028](https://github.com/gu9/Tutorials-PostGreSQL/blob/master/Pics/image-20181001152904028.png)
+
