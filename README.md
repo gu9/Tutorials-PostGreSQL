@@ -41,3 +41,15 @@ Here are the steps we performed (and reviewed at the end):
 
 ![image-20181001152904028](https://github.com/gu9/Tutorials-PostGreSQL/blob/master/Pics/image-20181001152904028.png)
 
+## How to Restore a Database
+
+1. Create a Database with pgAdminConsole
+2. Restore a Database
+3. Delete a Database
+
+
+
+### Create a Database
+
+![image-20181001155222551](https://github.com/gu9/Tutorials-PostGreSQL/blob/master/Pics/image-20181001155222551.png)
+
