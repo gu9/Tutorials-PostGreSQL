@@ -10,7 +10,13 @@ http://www.enterprisedb.com/products-services-training/pgdownload#macosx
 
 Open the PostGre SQL server settings
 
-![image-20181001132006784](/Users/s4555024/Library/Application Support/typora-user-images/image-20181001132006784.png)
+![image-20181001132309527](https://github.com/gu9/Tutorials-PostGreSQL/blob/master/Pics/image-20181001132309527.png)
+
+
+
+
+
+![image-20181001132006784](https://github.com/gu9/Tutorials-PostGreSQL/blob/master/Pics/image-20181001132006784.png)
 
 ![image-20181001132309527](/Users/s4555024/Library/Application Support/typora-user-images/image-20181001132309527.png)
 
