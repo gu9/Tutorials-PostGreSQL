@@ -34,3 +34,9 @@ Here are the steps we performed (and reviewed at the end):
 10. Click on the refresh button with your database selected
 11. You should now be able to see Tables(15) in the drop-down menu of your Database
 12. You can test this by executing an “Arbitrary SQL Query on the Database”
+
+
+
+## Schema for Database
+
+![image-20181001152904028](/Users/s4555024/Documents/Tutorials-PostGreSQL/Pics/image-20181001152904028.png)
